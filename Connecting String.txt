@@ -1,0 +1,15 @@
+SupermarketConnectionString
+
+Data Source=|DataDirectory|\Supermarket.sdf
+
+
+Data Source=|DataDirectory|\Supermarket.sdf
+
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=|DataDirectory|\SuperMarket.mdb
+
+SuperMarketConnectionString1
+
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source="C:\Users\Timsnky\Dropbox\Programming\Visual Basic Projects\Supermarket\SuperMarketAccessDB.mdb"
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source="C:\Users\Timsnky\Dropbox\Programming\Visual Basic Projects\Supermarket\SuperMarketAccessDB.mdb"
+
+SuperMarketAccessDBConnectionString
